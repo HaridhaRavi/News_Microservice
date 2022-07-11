@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM newsappdata.user_tbl
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="user_id">1</field>
+		<field name="password">james</field>
+		<field name="role">admin</field>
+		<field name="user_name">James</field>
+	</row>
+
+	<row>
+		<field name="user_id">2</field>
+		<field name="password">robert</field>
+		<field name="role">publisher</field>
+		<field name="user_name">Robert</field>
+	</row>
+
+	<row>
+		<field name="user_id">3</field>
+		<field name="password">qwe</field>
+		<field name="role">reader</field>
+		<field name="user_name">John</field>
+	</row>
+
+	<row>
+		<field name="user_id">4</field>
+		<field name="password">michael</field>
+		<field name="role">publisher</field>
+		<field name="user_name">Michael</field>
+	</row>
+
+	<row>
+		<field name="user_id">5</field>
+		<field name="password">mary</field>
+		<field name="role">admin</field>
+		<field name="user_name">Mary</field>
+	</row>
+
+	<row>
+		<field name="user_id">6</field>
+		<field name="password">patricia</field>
+		<field name="role">reader</field>
+		<field name="user_name">Patricia</field>
+	</row>
+
+	<row>
+		<field name="user_id">7</field>
+		<field name="password">jennifer</field>
+		<field name="role">reader</field>
+		<field name="user_name">Jennifer</field>
+	</row>
+
+	<row>
+		<field name="user_id">8</field>
+		<field name="password">linda</field>
+		<field name="role">reader</field>
+		<field name="user_name">Linda</field>
+	</row>
+
+	<row>
+		<field name="user_id">9</field>
+		<field name="password">lisa</field>
+		<field name="role">publisher</field>
+		<field name="user_name">Lisa</field>
+	</row>
+
+	<row>
+		<field name="user_id">10</field>
+		<field name="password">daniel</field>
+		<field name="role">reader</field>
+		<field name="user_name">Daniel</field>
+	</row>
+
+	<row>
+		<field name="user_id">11</field>
+		<field name="password">nancy</field>
+		<field name="role">reader</field>
+		<field name="user_name">Nancy</field>
+	</row>
+
+	<row>
+		<field name="user_id">12</field>
+		<field name="password">mark</field>
+		<field name="role">admin</field>
+		<field name="user_name">Mark</field>
+	</row>
+
+	<row>
+		<field name="user_id">13</field>
+		<field name="password">steven</field>
+		<field name="role">reader</field>
+		<field name="user_name">Steven</field>
+	</row>
+
+	<row>
+		<field name="user_id">14</field>
+		<field name="password">paul</field>
+		<field name="role">publisher</field>
+		<field name="user_name">Paul</field>
+	</row>
+
+	<row>
+		<field name="user_id">15</field>
+		<field name="password">ashley</field>
+		<field name="role">reader</field>
+		<field name="user_name">Ashley</field>
+	</row>
+</resultset>

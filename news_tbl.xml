@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM newsappdata.news_tbl
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="news_id">1</field>
+		<field name="creation_date">2022-07-11</field>
+		<field name="role">admin</field>
+		<field name="text">Novak Djokovic beats Nick Kyrgios for 7th Wimbledon title</field>
+		<field name="title">Sports</field>
+		<field name="valid_from">10:00:00</field>
+		<field name="valid_to">12:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">2</field>
+		<field name="creation_date">2022-07-11</field>
+		<field name="role">admin</field>
+		<field name="text">Ukrainian tennis player Elina Svitolina on a 'mission' to help war-torn country</field>
+		<field name="title">Sports</field>
+		<field name="valid_from">10:00:00</field>
+		<field name="valid_to">12:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">3</field>
+		<field name="creation_date">2022-07-12</field>
+		<field name="role">admin</field>
+		<field name="text">Charles Leclerc outduels Max Verstappen to win Austrian Grand Prix, thrusts himself back into championship race</field>
+		<field name="title">Sports</field>
+		<field name="valid_from">11:00:00</field>
+		<field name="valid_to">12:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">4</field>
+		<field name="creation_date">2022-07-12</field>
+		<field name="role">publisher</field>
+		<field name="text">Analysis: Record numbers of Chinese graduates enter worst job market in decades</field>
+		<field name="title">Education</field>
+		<field name="valid_from">08:00:00</field>
+		<field name="valid_to">12:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">5</field>
+		<field name="creation_date">2022-07-13</field>
+		<field name="role">publisher</field>
+		<field name="text">China's New Oriental education giant finds new life in English live streaming</field>
+		<field name="title">Education</field>
+		<field name="valid_from">12:00:00</field>
+		<field name="valid_to">04:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">6</field>
+		<field name="creation_date">2022-07-13</field>
+		<field name="role">publisher</field>
+		<field name="text">School Shootings Hit Highest Level on Record, Federal Data Shows</field>
+		<field name="title">Education</field>
+		<field name="valid_from">12:00:00</field>
+		<field name="valid_to">03:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">7</field>
+		<field name="creation_date">2022-07-14</field>
+		<field name="role">publisher</field>
+		<field name="text">North Korea is making a fortune with high-tech crypto thefts</field>
+		<field name="title">Business</field>
+		<field name="valid_from">02:00:00</field>
+		<field name="valid_to">12:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">8</field>
+		<field name="creation_date">2022-07-14</field>
+		<field name="role">admin</field>
+		<field name="text">Toyota Crown debuts July 15: Funky lifted sedan is headed our way</field>
+		<field name="title">Business</field>
+		<field name="valid_from">01:00:00</field>
+		<field name="valid_to">12:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">9</field>
+		<field name="creation_date">2022-07-10</field>
+		<field name="role">publisher</field>
+		<field name="text">Mammoth Cave: Coke bottles, ticket stubs, pre-historic debris discovered in world's longest-known cave system</field>
+		<field name="title">Science</field>
+		<field name="valid_from">09:00:00</field>
+		<field name="valid_to">14:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">10</field>
+		<field name="creation_date">2022-07-10</field>
+		<field name="role">publisher</field>
+		<field name="text">Fearing Russian gas shut-off, France's industry turns to oil</field>
+		<field name="title">World News</field>
+		<field name="valid_from">11:00:00</field>
+		<field name="valid_to">19:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">11</field>
+		<field name="creation_date">2022-07-10</field>
+		<field name="role">publisher</field>
+		<field name="text">Building blocks of life found floating in Milky Way in discovery that suggests we are not alone</field>
+		<field name="title">Science</field>
+		<field name="valid_from">01:00:00</field>
+		<field name="valid_to">18:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">12</field>
+		<field name="creation_date">2022-07-11</field>
+		<field name="role">admin</field>
+		<field name="text">A Top Trainer Shared the 5 Foods He Thinks Everyone Should Be Eating</field>
+		<field name="title">Health</field>
+		<field name="valid_from">06:00:00</field>
+		<field name="valid_to">15:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">13</field>
+		<field name="creation_date">2022-07-12</field>
+		<field name="role">publisher</field>
+		<field name="text">AOC Excuses Kavanaugh Dinner Harassment with Misinformation</field>
+		<field name="title">Politics</field>
+		<field name="valid_from">17:00:00</field>
+		<field name="valid_to">22:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">14</field>
+		<field name="creation_date">2022-07-10</field>
+		<field name="role">admin</field>
+		<field name="text">Nuclear war would be enough to plunge the whole world into a ‘Little Ice Age’</field>
+		<field name="title">World News</field>
+		<field name="valid_from">07:00:00</field>
+		<field name="valid_to">14:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">15</field>
+		<field name="creation_date">2022-07-11</field>
+		<field name="role">admin</field>
+		<field name="text">Eddie Murphy's Daughter Bria Marries Fiancé Michael Xavier in Romantic Beverly Hills Ceremony</field>
+		<field name="title">Entertainment</field>
+		<field name="valid_from">09:00:00</field>
+		<field name="valid_to">16:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">16</field>
+		<field name="creation_date">2022-07-11</field>
+		<field name="role">publisher</field>
+		<field name="text">Johnny Depp Verdict Thrown Into Chaos As Wrong Juror Seated In Virginia Trial, Amber Heard Says; Wants New Trial</field>
+		<field name="title">Entertainment</field>
+		<field name="valid_from">11:00:00</field>
+		<field name="valid_to">19:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">17</field>
+		<field name="creation_date">2022-07-14</field>
+		<field name="role">admin</field>
+		<field name="text">Randy Moss leaving Monday Night Football in new ESPN contract</field>
+		<field name="title">Sports</field>
+		<field name="valid_from">10:40:00</field>
+		<field name="valid_to">17:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">18</field>
+		<field name="creation_date">2022-07-14</field>
+		<field name="role">publisher</field>
+		<field name="text">Report: Lakers would need to send out first-round pick in Kyrie Irving trade</field>
+		<field name="title">Sports</field>
+		<field name="valid_from">06:20:00</field>
+		<field name="valid_to">10:00:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">19</field>
+		<field name="creation_date">2022-07-13</field>
+		<field name="role">publisher</field>
+		<field name="text">Homeownership just got 5% cheaper as mortgage rates fall off a cliff</field>
+		<field name="title">Business</field>
+		<field name="valid_from">10:17:00</field>
+		<field name="valid_to">18:20:00</field>
+	</row>
+
+	<row>
+		<field name="news_id">20</field>
+		<field name="creation_date">2022-07-11</field>
+		<field name="role">publisher</field>
+		<field name="text">UK temperatures could top 43°C on hottest day ever next week</field>
+		<field name="title">Weather</field>
+		<field name="valid_from">11:20:00</field>
+		<field name="valid_to">19:00:00</field>
+	</row>
+</resultset>
